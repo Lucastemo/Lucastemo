@@ -1,7 +1,7 @@
 # Hello there 👋
-Hey, I'm Lucas, I am really passionate about programming. I mainly focus on learning back-end development, but I also have a little interest on front-end. I am currently 19 years old and determined to work with programming, willing to learn whatever is needed to do so.
+Hey, I'm Lucas, I am really passionate about programming. I mainly focus on learning back-end development, but I also have a bit of interest and curiosity on front-end. I am currently 19 years old and determined to work with programming, willing to learn whatever is needed to do so.
 
-I live in Brazil and Brazilian Portuguese is my mother language, but I am also proficient in English ([C2 Level in CEFR](https://cert.efset.org/87udS7)) so I can communicate in both languages with relative ease.
+I currently live in Brazil and Brazilian Portuguese is my mother language, but I can also communicate in English with relative ease.
 
 ---
 
